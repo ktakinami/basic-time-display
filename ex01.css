@@ -1,0 +1,39 @@
+body {
+    background: rgb(70, 142, 236);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: #fff;
+    text-align: center;
+}
+
+h1 {
+    font-family: monospace;
+}
+
+section {
+    background: #fff;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 7px 7px 10px rgba(0, 0, 0, 0.4);
+}
+
+#msg {
+    text-align: center;
+    margin-top: 15px;
+    font-family: fantasy;
+}
+
+#photo {
+    width: 250px;
+    margin: 30px auto 15px;
+}
+
+footer {
+    color: #fff;
+    text-align: center;
+    font-style: italic;
+}
